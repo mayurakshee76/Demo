@@ -1,2 +1,2 @@
-# Demo
-First demo 
+# KIVY practice files
+Trying features of kivy
